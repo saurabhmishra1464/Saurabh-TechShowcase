@@ -46,6 +46,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact Information
 
-Feel free to reach out to me via email at [saurabhmishra1464@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/saurabh-mishra-552716153/).
+Feel free to reach out to me via email at [saurabhmishra1464@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/saurabh-mishra-552716153/). 
 
 
